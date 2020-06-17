@@ -44,3 +44,20 @@ footer{
   background-color: #4CAF50;
   color: white;
 }
+
+.button{
+  background-color: #555555;
+  font-size: 20px;
+  padding: 14px 40px;
+  color:white;
+}
+
+.button:hover{
+  background-color: #e7e7e7;
+  font-size: 20px;
+  padding: 14px 40px;
+  color:black;
+}
+
+
+
