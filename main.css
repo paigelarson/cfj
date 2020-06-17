@@ -45,14 +45,14 @@ footer{
   color: white;
 }
 
-.button{
+.button1{
   background-color: #555555;
   font-size: 20px;
   padding: 14px 40px;
   color:white;
 }
 
-.button:hover{
+.button1:hover{
   background-color: #e7e7e7;
   font-size: 20px;
   padding: 14px 40px;
