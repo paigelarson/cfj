@@ -4,10 +4,17 @@ body {
   font-family: Tahoma, Geneva, sans-serif;
 }
 
+footer{
+  font-family: Tahoma, Geneva, sans-serif;
+  text-align; center;
+  margin:0;
+}
+
 .topnav {
    text-align: center;
   overflow: hidden;
   background-color: #333;
+  font-family: Tahoma, Geneva, sans-serif;
 }
 
 .topnav a {
