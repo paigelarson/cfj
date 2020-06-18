@@ -16,10 +16,8 @@ footer{
   margin:0;
 }
 
-ul{
-  display: inline-block; 
-  text-align: left; 
-}
+
+
 
 .topnav {
    text-align: center;
@@ -52,6 +50,8 @@ ul{
 
 
 
+
+
 .button1{
   background-color: #555555;
   font-size: 20px;
@@ -68,3 +68,16 @@ ul{
 
 
 
+
+.button2{
+  background-color: #FFFFFF;
+  font-size: 20px;
+  padding: 14px 40px;
+  color:black;
+}
+.button1:hover{
+  background-color: #555555;
+  font-size: 20px;
+  padding: 14px 40px;
+  color:white;
+}
