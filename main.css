@@ -58,9 +58,9 @@ footer{
   font-size: 20px;
   padding: 14px 40px;
   color:white;
-  margin:20px;
+  margin:20px auto;
 display:block;
-  text-decoration:none;
+
 }
 
 .button1:hover{
@@ -68,13 +68,15 @@ display:block;
   font-size: 20px;
   padding: 14px 40px;
   color:black;
-  margin:20px;
+  margin:20px auto;
 display:block;
   
 }
 
 
-
+a {
+text-decoration: none;
+}
 
 .button2{
   background-color: #FFFFFF;
@@ -82,9 +84,9 @@ display:block;
   padding: 14px 40px;
   border: 2px solid #555555; 
   color:black;
-  margin:15px;
+  margin:15px auto;
   display:block;
-  text-decoration:none;
+
 }
 .button2:hover{
   background-color: #555555;
@@ -92,6 +94,6 @@ display:block;
   padding: 14px 40px;
   color:white;
   border: 2px solid #e7e7e7; 
-  margin:15px;
-display:block;
+  margin:15px auto;
+  display:block;
 }
