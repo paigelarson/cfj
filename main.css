@@ -58,7 +58,7 @@ footer{
   font-size: 20px;
   padding: 14px 40px;
   color:white;
-  margin:20px auto;
+  margin:17px auto;
 display:block;
 
 }
@@ -68,7 +68,7 @@ display:block;
   font-size: 20px;
   padding: 14px 40px;
   color:black;
-  margin:20px auto;
+  margin:17px auto;
 display:block;
   
 }
@@ -84,16 +84,16 @@ text-decoration: none;
   padding: 14px 40px;
   border: 2px solid #555555; 
   color:black;
-  margin:15px auto;
+  margin:12px auto;
   display:block;
 
 }
 .button2:hover{
-  background-color: #555555;
+  background-color: #e7e7e7;
   font-size: 20px;
   padding: 14px 40px;
   color:white;
   border: 2px solid #e7e7e7; 
-  margin:15px auto;
+  margin:12px auto;
   display:block;
 }
