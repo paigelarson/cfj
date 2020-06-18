@@ -60,6 +60,7 @@ footer{
   color:white;
   margin:10px;
 display:block;
+  text-decoration:none;
 }
 
 .button1:hover{
@@ -69,6 +70,7 @@ display:block;
   color:black;
   margin:10px;
 display:block;
+  
 }
 
 
@@ -81,14 +83,15 @@ display:block;
   border: 2px solid #555555; 
   color:black;
   margin:10px;
-display:block;
+  display:block;
+  text-decoration:none;
 }
 .button2:hover{
   background-color: #555555;
   font-size: 20px;
   padding: 14px 40px;
   color:white;
-  border: 2px solid #555555; 
+  border: 2px solid #e7e7e7; 
   margin:10px;
 display:block;
 }
