@@ -16,6 +16,11 @@ footer{
   margin:0;
 }
 
+ul{
+  display: inline-block; 
+  text-align: left; 
+}
+
 .topnav {
    text-align: center;
   overflow: hidden;
@@ -45,14 +50,7 @@ footer{
   color: black;
 }
 
-.edge{
-  text-align: right;
-  float: left;
-  color: #f2f2f2;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 17px;
-}
+
 
 .button1{
   background-color: #555555;
