@@ -1,1 +1,53 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>The Activist's Center for Justice</title>
+		<link rel="stylesheet" type="text/css" href="main.css">
+	</head>
+	
+	<div class="topnav">
+         <a href="index.html">Home</a>
+         <a href="mission.html">Mission</a>
+         <a href="contact.html">Contact Us</a>
+   	</div>
+	
+    	<body>
+        <h1>DOs and DON'Ts of Protesting</h1>
+	<p>Although the movements we believe in are important, so is our safety. Here are some practices used to stay safe when
+  speaking out against injustice.</p>
+	<br>	
+    <h3>DOs</h3>
+     <ul>
+      <li>DO tell people where you are. This way, if you are detained or injured, they will come looking for you if you don't return.</li>
+      <li>DO wear goggles if possible. These can protect from flying projectiles or tear gas.</li>
+      <li>DO wear a mask or face covering and maintain social distance (if possible). In light of coronavirus concerns, these are
+      important to protect your personal health and the health of others.</li>
+      <li>DO hydrate with water and bring snacks to keep your energy up.</li>
+      <li>DO turn off your face and touch id. Police can use these to force you to open your phone, since your face and thumbprint
+      are public property.</li>
+      <li>DO write the phone number of a trusted friend or family member AND/OR the phone number of a lawyer's guild on your arm.</li>
+      <li>DO wear sleeves AND/OR pants to protect from tear gas and sun exposure.</li>
+      <li>DO use water on the eyes and maalox on the skin if you are pepper sprayed or tear gassed.</li>
+      <li>DO stay alert.</li>
+     </ul>
+     
+     <br>
+     
+     <h3>DON'Ts</h3>
+     <ul>
+      <li>DON'T wear contacts; They can catch tear gas, making it eye damage more likely.</li>
+      <li>DON'T drink soda, alcohol or caffine, for they will act as dehydrants.</li>
+      <li>DON'T use text to communicate. Instead use encrypted messaging apps, such as Signal.</li>
+      <li>DON'T apply oil-based sunscreen. It will irritate your skin if mixed with tear gas.</li>
+      <li>DON'T talk to police without a lawyer (if you are arrested).</li>
+      <li>DON'T touch tear gas cannisters, they will burn your hand.</li>
+      <li>DON'T get aggressive without being provoked. They will use it against you.</li>
+      <li>DON'T overshadow protesters of color or the protest organizers. If you are a white protester, chose to follow their lead instead.</li>
+     </ul>
 
+		<a href="https://www.flexyourrights.org/how-to-flex-your-rights-at-protests/"> <button class="button button2">How to "Flex Your Rights" at Protests</button></a>
+		
+		<a href="protesting.html"> <button class="button button1">Back to Protesting Home</button></a>
+	</body>
+	
+</html>
