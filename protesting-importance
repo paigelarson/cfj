@@ -1,1 +1,30 @@
-
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>The Activist's Center for Justice</title>
+		<link rel="stylesheet" type="text/css" href="main.css">
+	</head>
+	
+	<div class="topnav">
+         <a href="index.html">Home</a>
+         <a href="mission.html">Mission</a>
+         <a href="contact.html">Contact Us</a>
+   	</div>
+	
+    	<body>
+        <h1>Why is Protesting Important?</h1>
+	<p>The first ammendment gives the citizens of the United States the freedom of speech. This means that we are allowed to stand
+  up for what we believe in. This is what protesting is at it's core. This is the people banding together to make a change, be it
+  at a local, regional, or national level. Our right to protest is important because it gives us a voice. It provides minority
+  groups with a way to voice their needs, which often go overlooked in the standard workings of our government. It also starts the
+  conversation and raises awareness for causes that we believe are important. Most importantly, Protest has the power to
+  lead to change. We speak up and voice our concerns, which may lead to politicians getting on board with the cause and sponsering
+  legislation in favor of the cause. As the people who live in this country, our right to protest is an important part of civilians
+  taking part in government and having their needs addressed, which is one of the most important resposibilites of our government."</p>
+	<br>	
+   
+	<a href="https://right-to-protest.org/debate-protest-rights/why-the-right-to-protest/"> <button class="button button1">More Information on Our Right to Protest</button></a>
+		<a href="protesting.html"> <button class="button button1">Back to Protesting Home</button></a>
+	</body>
+	
+</html>
