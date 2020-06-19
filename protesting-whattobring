@@ -1,1 +1,52 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>The Activist's Center for Justice</title>
+		<link rel="stylesheet" type="text/css" href="main.css">
+	</head>
+	
+	<div class="topnav">
+         <a href="index.html">Home</a>
+         <a href="mission.html">Mission</a>
+         <a href="contact.html">Contact Us</a>
+   	</div>
+	
+    	<body>
+        <h1>What to Bring to a Protest</h1>
+	<p>If it is your first protest, you may be wondering what you should bring vs. leave at home. This is a list of basic items
+  that may come in handy at any protest you plan on attending, as well as good plans of action.</p>
+	<br>	
+   <h3>Things to Bring</h3> 
+     <ul>
+      <li>Bring as little as possible, since you'll have to hold everything. Small backpacks are great for carrying essentials.</li>
+      <li>Bring a sign to show your support for the movement</li>
+      <li>Dress in layers. This gives you the flexibility to take off or put on layers depending on the weather. Hats and 
+      sunscreen are also a good idea when it's sunny.</li>
+      <li>If it is raining, clear umbrellas allow you to stay dry while still being able to see speakers and not block 
+      anyone else's view.</li>
+      <li>Bring some form of ID just in case you face arrest.</li>
+      <li>Light snacks and water are paramount for keeping yourself nourished and hydrated.</li>
+      <li>Bring a phone charger. If your phone dies, you'll be unable to communicate with friends if you get lost or arrested.</li>
+      <li>If you have long hair, bring a hair tie for if it gets hot and you want to put your hair up.</li>
+      <li>Wear sensible shoes, since you will be most likely be walking or spending a lot of time on your feet.</li>
+ 
+     </ul>
+     
+     <br>
+     
+     <h3>Things to Know</h3> 
+     <ul>
+      <li>Know where and when the protest is taking place. If a march is taking place, understand the march route.</li>
+      <li>Know about the cause! If you are protesting, chances are you already support the activism, but make sure to 
+      stay educated and updated on the current state of the movement, as well as the history that brought it to the protest you
+      are attending.</li>
+      <li>Know your own limits. </li>
+      <li>Know that you are here for the cause. This is not a photo shoot or just an opportunity to see your friends. If you are
+      posting on social media, make sure it is advocating for the cause and spreading awareness!</li>
+ 
+     </ul>
 
+		<a href="protesting.html"> <button class="button button1">Back to Protesting Home</button></a>
+	</body>
+	
+</html>
