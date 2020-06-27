@@ -1,1 +1,26 @@
+<! DOCTYPE html>
+<html>	
+	<head>
+		<title>The Activist's Center for Justice</title>
+		<link rel="stylesheet" type="text/css" href="main.css">
+	</head>
+    	<div class="topnav">
+         <a href="index.html">Home</a>
+         <a href="mission.html">Mission</a>
+         <a href="contact.html">Contact Us</a>
+    	</div>
+	
+    	<body>
+        <h1>Voting</h1>
+	<p>One of the great things about democracy is that the people have a voice. We, at least in theory, should all be able to have a say in how our government is run.
+  The easiest way to do so is by voting! By electing local, regional, and national politicians who represent us, we can take part in making sure the right
+  people are put in power. By voting for bills and actions, we can turn movements into structured legal requirements that will uphold equality and justice in our
+  government.</p>
 
+		
+		<a href="https://www.usa.gov/register-to-vote"><button class="button button1"></button>How to Register to Vote</a>
+    <a href="https://www.vote.org/register-to-vote/"><button class="button button1"></button>Register to Vote Online</a>
+		
+	</body>
+	
+</html>
